@@ -189,6 +189,3 @@ Booking Date: 2026-05-08T10:00:00
 
 ---
 
-# Autor
-
-Proyecto académico - Fly Away Travel API
